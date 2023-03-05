@@ -1,4 +1,4 @@
-#Math calculator using 3 functions from the math library. Created By Lucas Leung for ICS3U course, TLK S.S., Feb 22 2023
+#Math calculator using 3 functions from the math library. Created By Lucas L. for ICS3U course, Feb 22 2023
 
 import math
 
