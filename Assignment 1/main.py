@@ -1,4 +1,4 @@
-#Multipurpose calculator created By Lucas Leung for ICS3U course, TLK S.S., Feb 24 2023
+#Multipurpose calculator created By Lucas L for ICS3U course, Feb 24 2023
 #time for waiting https://docs.python.org/3/library/time.html
 #random num https://docs.python.org/3/library/random.html
 
