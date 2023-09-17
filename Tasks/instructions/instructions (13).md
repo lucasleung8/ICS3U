@@ -1,0 +1,5 @@
+# Instructions  
+
+ 1. write a function to calculate your grade on an assignment. The function takes in your grade and number of days late from today and takes off 2% per day. For example calculateGrade(75, 10) would return 55. calculateGrade(65, 0) would return 65 and calculateGrade(20, 100) would return 0.
+ 2. write a function called levelGrade(numberGrade) that given number grade, it prints and returns the corresponding level grade for that. For example levelGrade(91) would return 4. levelGrade(71) would return 3
+ 3. Write a function called differenceOfEvenAndOdd(list) that takes in a list of numbers and calculate the difference between the sum of even numbers and the sum of odd numbers. For example differenceOfEvenAndOdd([1,2,5,2]) would return -2 because the sum of even numbers is 2+2 = 4 and the sum of odd number is 1+5 = 6. 4 - 6 = -2
